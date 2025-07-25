@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/edu-java-homework-task-1/edu-java-homework-task-1.iml" filepath="$PROJECT_DIR$/edu-java-homework-task-1/edu-java-homework-task-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-java-homework-1-tasks/edu-java-homework-1-tasks.iml" filepath="$PROJECT_DIR$/edu-java-homework-1-tasks/edu-java-homework-1-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/edu-java-projects.iml" filepath="$PROJECT_DIR$/.idea/edu-java-projects.iml" />
     </modules>
   </component>

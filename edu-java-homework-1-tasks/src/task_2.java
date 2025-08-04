@@ -3,12 +3,12 @@ public class task_2 {
 
         //Найти сумму цифр ab + cd числа abcd
         int given_number_abcd = 4321;
-        int ab_number = given_number_abcd / 100;
-        int cd_number = given_number_abcd % 100;
-        int sum_ab_cd = ab_number + cd_number;
+        int abNumber = given_number_abcd / 100;
+        int cdNumber = given_number_abcd % 100;
+        int sumABCD = abNumber + cdNumber;
 
-        System.out.println("The 'ab' number is: " + ab_number);
-        System.out.println("The 'cd' number is: " + cd_number);
-        System.out.println("The sum of " + ab_number + " and " + cd_number + " is: " + sum_ab_cd);
+        System.out.println("The 'ab' number is: " + abNumber);
+        System.out.println("The 'cd' number is: " + cdNumber);
+        System.out.println("The sum of " + abNumber + " and " + cdNumber + " is: " + sumABCD);
     }
 }
